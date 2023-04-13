@@ -20,7 +20,7 @@ body{
 
 .cabecalho_menu{
     display: inline;
-    align-items: center;
+    align-items: right;
 }
 
 .cabecalho_menu_item{
