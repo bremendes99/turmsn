@@ -6,6 +6,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: #9CF4A5;
 }
 .cabecalho_titulo{
     display: inline;
@@ -23,4 +24,5 @@ body{
 .cabecalho_menu_item{
     display: inline;
     margin-left: 20px;
+    font-size: 32px;
 }
