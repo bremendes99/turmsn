@@ -1,16 +1,20 @@
 body{
     background-color: #C6FFD2;
 }
+
 .cabecalho_titulo{
     display: inline;
 }
+
 .cabecalho_imagem{
     width: 201px;
     height:195px ;
 }
+
 .cabecalho_menu{
     display: inline;
 }
+
 .cabecalho_menu_item{
     display: inline;
 }
