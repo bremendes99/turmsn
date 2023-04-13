@@ -4,6 +4,8 @@ body{
 
 .cabecalho{
     display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 .cabecalho_titulo{
     display: inline;
