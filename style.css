@@ -20,14 +20,12 @@ body{
 
 .cabecalho_menu{
     display: inline;
-    justify-content: space-around;
-    align-items: right;
 }
 
 .cabecalho_menu_item{
     display: inline;
     justify-content: space-around;
-    align-items: right;
+    align-items: center;
     margin-left: 50px;
     font-size: 25px;
 
