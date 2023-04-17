@@ -1,32 +1,30 @@
 body{
     background-color: #C6FFD2;
-}
+    }
 
-.cabecalho{
+    .cabecalho{
+    background-color: #9CF4A5;
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    background-color: #9CF4A5;
-    font-size: 20px;
-}
-.cabecalho_titulo{
+    align-items: center; 
+    }
+    .cabecalho_titulo{
     display: inline;
-}
+    }
 
-.cabecalho_imagem{
+    .cabecalho_imagem{
     width: 201px;
     height:195px ;
-}
+    }
 
-.cabecalho_menu{
+    .cabecalho_menu{
     display: inline;
-}
+    }
 
-.cabecalho_menu_item{
+    .cabecalho_menu_item{
     display: inline;
     justify-content: space-around;
     align-items: center;
     margin-left: 200px;
     font-size: 25px;
-
-}
+    }
