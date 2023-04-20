@@ -40,6 +40,20 @@ body{
         background-color: #87EC91;
     }
 
+    .escola_imagem{
+        width: 234px;
+        height: 229px;
+    }
+
     .professores{
         background-attachment: #6AE37D;
     }
+
+    .professores__div-imagem{
+        width: 120px;
+        height: auto;
+    }
+        
+
+   
+
