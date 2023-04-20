@@ -40,7 +40,7 @@ body{
         display: flex;
         background-color: #87EC91;
         justify-content: right;
-        align-items: flex-start;
+        align-items: flex-end;
     }
 
     .escola_imagem{
