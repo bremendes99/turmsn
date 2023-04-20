@@ -1,3 +1,8 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
 body{
     background-color: #C6FFD2;
     }
@@ -29,4 +34,12 @@ body{
     margin-left: 200px;
     font-size: 25px;
     color: #8A2574;
+    }
+
+    .escola{
+        background-color: #87EC91;
+    }
+
+    .professores{
+        background-attachment: #6AE37D;
     }
