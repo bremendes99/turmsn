@@ -37,6 +37,7 @@ body{
     }
 
     .escola{
+        display: flex;
         background-color: #87EC91;
     }
 
