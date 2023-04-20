@@ -41,6 +41,8 @@ body{
         background-color: #87EC91;
         justify-content: space-around;
         align-items:right;
+        margin: 20px;
+        border-radius: 40px;
     }
 
     .escola_imagem{
@@ -57,12 +59,4 @@ body{
         height: 120px;
     }
         
-
-    .escola{
-        display: flex;
-        background-color: darkgray;
-        justify-content: space-around;
-        align-items: center;
-        margin: 20px;
-        border-radius: 40px;
 
