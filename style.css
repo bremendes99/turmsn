@@ -39,8 +39,8 @@ body{
     .escola{
         display: flex;
         background-color: #87EC91;
-        justify-content: right;
-        align-items: flex-end;
+        justify-content: end;
+        align-items: center;
     }
 
     .escola_imagem{
