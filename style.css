@@ -56,7 +56,7 @@ body{
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: auto;
         background-color: #6AE37D;
-        place-items: center;
+        justify-items: center;
         gap:30px;
     }
    
