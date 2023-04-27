@@ -57,7 +57,7 @@ body{
         grid-template-rows: auto;
         background-color: #6AE37D;
         justify-items: center;
-        gap:20px;
+        gap:50px;
     }
    
     .professores_div-imagem{
