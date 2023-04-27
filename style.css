@@ -67,7 +67,8 @@ body{
     .professores_div-imagem{
         width: 112px;
         height: 120px;
-        align-items: center;
+        justify-items: center;
+        gap:auto
     }
         
 
