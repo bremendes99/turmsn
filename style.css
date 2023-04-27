@@ -71,6 +71,9 @@ body{
     
     .rodape{
         background-color: ##C6FFD2;
-        display: block;
+    }
+
+    p.rodape{
+        display:block;
     }
 
