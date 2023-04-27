@@ -46,6 +46,10 @@ body{
         border-radius: 40px;
     }
 
+    p.professores_div-paragrafo{
+        width: 112px;
+    }
+
     .escola_imagem{
         width: 234px;
         height: 229px;
