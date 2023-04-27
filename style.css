@@ -56,8 +56,13 @@ body{
         grid-template-columns: 1fr 1fr 1fr;
         grid-template-rows: auto;
         background-attachment: #6AE37D;
+        place-items: center;
+        gap: 20px;
     }
+    .professores_div{
+        display: flex;
 
+    }
     .professores_div-imagem{
         width: 112px;
         height: 120px;
