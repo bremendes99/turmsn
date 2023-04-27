@@ -46,6 +46,10 @@ body{
         border-radius: 40px;
     }
 
+    h2.professores_div-titulo{
+        justify-items: flex-start;
+    }
+
 
     p.professores_div-paragrafo{
         width: 112px;
@@ -68,7 +72,6 @@ body{
     .professores_div-imagem{
         width: 112px;
         height: 120px;
-        justify-items: center;
     }
         
 
